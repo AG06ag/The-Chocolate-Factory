@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #c0b1af;
+}
+h1 {
+  border-top-style: double;
+  border-right-style: double;
+  border-bottom-style: double;
+  border-left-style: double;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #8A3827;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #EBDEDB;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #B26B5D;
+}
